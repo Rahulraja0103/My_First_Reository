@@ -13,6 +13,4 @@ Creating repository for College project
 
 Set up and running is successful.
 
-Project demoe is done successfully.
- 
 
