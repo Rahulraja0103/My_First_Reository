@@ -13,5 +13,7 @@ Creating repository for College project
 
 Set up and running is successful.
 
+# The project demo was done successfully. Thanks 
+
 # NOTE
 The license used is MIT license which provides strong license policies for the project
